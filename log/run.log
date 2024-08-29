@@ -1,0 +1,5 @@
+2024-08-23 12:01:02,658 - wootalk_bot_log - DEBUG - 這是 DEBUG 級別的訊息
+2024-08-23 12:01:02,658 - wootalk_bot_log - INFO - 這是 INFO 級別的訊息
+2024-08-23 12:01:02,658 - wootalk_bot_log - WARNING - 這是 WARNING 級別的訊息
+2024-08-23 12:01:02,660 - wootalk_bot_log - ERROR - 這是 ERROR 級別的訊息
+2024-08-23 12:01:02,661 - wootalk_bot_log - CRITICAL - 這是 CRITICAL 級別的訊息
